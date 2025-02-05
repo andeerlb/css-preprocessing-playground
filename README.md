@@ -9,6 +9,6 @@ It has features that **don’t exist in CSS yet** like nesting, mixins, inherita
 
 # Which CSS preprocessors are available here?
 
-* 🕞 [SCSS](https://sass-lang.com/)
-* ❌ [SASS](https://sass-lang.com/)
-* ❌ [LESS](https://lesscss.org/)
+* 🕞 [SCSS](scss/README.md)
+* ❌ [SASS](sass/README.md)
+* ❌ [LESS](less/README.md)
