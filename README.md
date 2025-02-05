@@ -9,6 +9,5 @@ It has features that **don’t exist in CSS yet** like nesting, mixins, inherita
 
 # Which CSS preprocessors are available here?
 
-* 🕞 [SCSS](scss/README.md)
-* ❌ [SASS](sass/README.md)
+* 🕞 [SCSS/SASS](scss/README.md) # SCSS is a special type of file for SASS, for our case, we'll use SCSS syntax.
 * ❌ [LESS](less/README.md)
