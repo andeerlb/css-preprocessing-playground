@@ -1,7 +1,7 @@
-legends:
-✅ - finished
-❌ - waiting
-🕞 - in progress
+legends:  
+✅ - finished  
+❌ - waiting  
+🕞 - in progress  
 
 # What is CSS preprocessor?
 CSS on its own can be fun, but stylesheets are getting larger, more complex, and harder to maintain. This is where a preprocessor can help.  
