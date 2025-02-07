@@ -1,0 +1,6 @@
+@use './modules/base';
+
+div {
+    background-color: $bg-color;
+    color: $txt-color;
+}
