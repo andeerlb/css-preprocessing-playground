@@ -1,0 +1,21 @@
+@mixin notification-style($bg-color: #fff, $txt-color: #000) {
+    background: $bg-color;
+    box-shadow: 0 0 1px rgba($bg-color, .25);
+    color: $txt-color;
+}
+
+.default {
+    @include notification-style;
+}
+
+.info {
+    @include notification-style($bg-color: #f46506, $txt-color: #fff);
+}
+
+.alert {
+    @include notification-style($bg-color: #f40606, $txt-color: #fff);
+}
+
+.success {
+    @include notification-style($bg-color: #0f8802, $txt-color: #020202);
+}
